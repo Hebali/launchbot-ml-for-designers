@@ -1,5 +1,5 @@
 ## Machine Learning for Designers: 
-###Building Intelligent Systems
+### Building Intelligent Systems
 <br/>
 **Presented by [Patrick Hebron](http://patrickhebron.com)**
 
