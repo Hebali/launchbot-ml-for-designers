@@ -3,7 +3,6 @@ FROM tensorflow/tensorflow:1.0.0
 RUN pip install scikit-learn
 RUN pip install keras
 RUN pip install Flask
-RUN pip install flask-cors
 
 # Launchbot labels
 LABEL name.launchbot.io="Machine Learning for Designers: Building Intelligent Systems"
